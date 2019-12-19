@@ -1,0 +1,1 @@
+Result: <?php echo $result['result'] ?>
